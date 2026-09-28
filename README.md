@@ -1,2 +1,2 @@
 # transcriptor2-releases
-Project history for Transcriptor 2
+Installers for Transcriptor 2
